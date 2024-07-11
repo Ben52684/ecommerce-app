@@ -1,7 +1,6 @@
-import { Nav, NavLink } from "@/components/Nav";
+import {Nav, NavLink } from "@/components/Nav";
 
 export default function AdminLayout({
-
     children,
 }: Readonly<{
     children: React.ReactNode;
